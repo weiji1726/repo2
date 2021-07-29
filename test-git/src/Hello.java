@@ -11,6 +11,9 @@ public class Hello{
         System.out.println("hello world");
     }
     public void fun(){
-        System.out.println("新增方法");
+        System.out.println("新增方法fun");
+    }
+    public void fun1(){
+        System.out.println("新增方法fun1");
     }
 }
