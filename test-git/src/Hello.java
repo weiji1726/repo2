@@ -13,6 +13,7 @@ public class Hello{
     public void fun(){
         System.out.println("修改第一行");
         System.out.println("新增方法fun");
+        System.out.println("修改fun第三行");
     }
     public void fun1(){
         System.out.println("新增方法fun1");
