@@ -11,6 +11,7 @@ public class Hello{
         System.out.println("hello world");
     }
     public void fun(){
+        System.out.println("修改第一行");
         System.out.println("新增方法fun");
     }
     public void fun1(){
