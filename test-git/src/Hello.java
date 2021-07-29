@@ -10,4 +10,7 @@ public class Hello{
         System.out.println("hello world");
         System.out.println("hello world");
     }
+    public void fun(){
+        System.out.println("新增方法");
+    }
 }
